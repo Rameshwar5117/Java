@@ -2,7 +2,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-import javax.swing.text.html.HTMLEditorKit.Parser;
 
 public class BuffereReader {
     public static void main(String args[])
